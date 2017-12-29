@@ -1,0 +1,2 @@
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone.UWP\WPBabyPhone.UWP.csproj;x86
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\WPBabyPhone.csproj;neutral

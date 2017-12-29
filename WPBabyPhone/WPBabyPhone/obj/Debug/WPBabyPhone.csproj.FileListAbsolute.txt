@@ -1,0 +1,16 @@
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\WPBabyPhone.dll
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\WPBabyPhone.pdb
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.csprojResolveAssemblyReference.cache
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.csproj.CoreCompileInputs.cache
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.MainPage.xaml.g.cs
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.App.xaml.g.cs
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.dll
+C:\Users\Gabi és Tomi\source\repos\WPBabyPhone\WPBabyPhone\WPBabyPhone\obj\Debug\WPBabyPhone.pdb
