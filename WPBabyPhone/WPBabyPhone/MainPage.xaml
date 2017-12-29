@@ -4,10 +4,15 @@
              xmlns:local="clr-namespace:WPBabyPhone"
              x:Class="WPBabyPhone.MainPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="LightPink">
+            <Label Text="Baby Phone" FontFamily="ChopinScript.otf#ChopinScript" FontSize="35" FontAttributes="Bold" 
+                   Margin="0,25,0,0"
+                VerticalOptions="Start" 
+                HorizontalOptions="Center" />
+
+            <Button Text="Méhhang" BackgroundColor="Pink" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,50,0,0"/>
+            <Button Text="Szívverés" BackgroundColor="Pink" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,25,0,0"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
